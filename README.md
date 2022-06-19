@@ -1,4 +1,4 @@
-# Ansible Role Mstream
+# Ansible Role - Mstream
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ursinn/ansible-role-mstream?logo=github&style=for-the-badge)](https://github.com/ursinn/ansible-role-mstream/commits)
 [![License](https://img.shields.io/github/license/ursinn/ansible-role-mstream?style=for-the-badge)](https://github.com/ursinn/ansible-role-mstream/blob/main/LICENSE)
